@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I my name is Felipe, I from Mexico and I love coding 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angelfeli98&theme=synthwave)](https://github.com/angelfeli98/github-readme-stats)
 
